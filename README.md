@@ -1,8 +1,4 @@
 # Statistics_For_Business
-# Create the README.md file with the provided content
-
-readme_content = """
-# Structured Statistics for Business  
 
 This repository contains a Jupyter Notebook that performs structured statistical analysis for business-related datasets. The analysis includes data cleaning, exploratory data analysis (EDA), hypothesis testing, and visualizations to uncover actionable insights for decision-making.
 
